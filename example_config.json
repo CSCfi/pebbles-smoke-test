@@ -1,0 +1,14 @@
+{
+  "url": "https://pebbles.example.com",
+  "email": "smoke.tester@example.com",
+  "password": "xx",
+  "blueprints": [
+    "Substring identifying blueprint name",
+  ],
+  "timeouts": {
+    "start": 120,
+    "shutdown": 60
+  },
+  "driver": "PhantomJS",
+  "img_path": "."
+}

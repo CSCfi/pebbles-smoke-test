@@ -1,0 +1,6 @@
+*.log
+config.json
+*.png
+*.txt
+.swp
+.swo
